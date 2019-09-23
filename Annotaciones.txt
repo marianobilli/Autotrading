@@ -1,0 +1,13 @@
+ 
+ TODO:
+- Reever el calculo de signal para moving average
+- Terminar test cases de moving averages
+ 
+ Para investigar:
+ the channel breakout rule, 
+ and the Bollinger band trading rule
+  nonparametric kernel regression
+- Trendlines tiene que analizar corto medio y largo plazo
+- Usar trendlines como soporte y resistencia
+ 
+ 
